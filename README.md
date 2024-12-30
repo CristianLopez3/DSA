@@ -1,5 +1,5 @@
-# Data Structures and Algorithms (_to crack the interview_)
+# Data Structures and Algorithms
 
-
+This repository helps algorithms and code snippets made for me to undersand DSA
 
 
